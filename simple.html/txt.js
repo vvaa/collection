@@ -1,0 +1,1 @@
+﻿document.write("10摄氏度");
